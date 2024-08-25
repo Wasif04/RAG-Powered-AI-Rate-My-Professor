@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Alice Johnson",
+        "subject": "Introduction to Computer Science",
+        "stars": 5,
+        "review": "Excellent professor, very clear explanations and approachable."
+      },
+      {
+        "professor": "Dr. Bob Smith",
+        "subject": "Calculus I",
+        "stars": 4,
+        "review": "Challenging course, but the professor is very supportive."
+      },
+      {
+        "professor": "Dr. Carol Lee",
+        "subject": "Physics for Engineers",
+        "stars": 3,
+        "review": "The material is difficult, but Dr. Lee makes it manageable."
+      },
+      {
+        "professor": "Dr. Daniel Kim",
+        "subject": "Organic Chemistry",
+        "stars": 2,
+        "review": "Hard to follow lectures, but the lab sessions are helpful."
+      },
+      {
+        "professor": "Dr. Emily Davis",
+        "subject": "World History",
+        "stars": 5,
+        "review": "Amazing storytelling skills, keeps the class engaged."
+      },
+      {
+        "professor": "Dr. Frank Miller",
+        "subject": "Macroeconomics",
+        "stars": 4,
+        "review": "Well-structured course, but exams are tough."
+      },
+      {
+        "professor": "Dr. Grace Brown",
+        "subject": "English Literature",
+        "stars": 5,
+        "review": "Very passionate about the subject and encourages deep discussions."
+      },
+      {
+        "professor": "Dr. Henry Wilson",
+        "subject": "Introduction to Psychology",
+        "stars": 3,
+        "review": "Lectures are okay, but the textbook is better for learning."
+      },
+      {
+        "professor": "Dr. Isabella Moore",
+        "subject": "Biology 101",
+        "stars": 4,
+        "review": "Labs are fun and the professor explains concepts clearly."
+      },
+      {
+        "professor": "Dr. Jack Taylor",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Insightful and thought-provoking lectures."
+      },
+      {
+        "professor": "Dr. Karen Anderson",
+        "subject": "Statistics",
+        "stars": 2,
+        "review": "The professor is knowledgeable, but the course is very math-heavy."
+      },
+      {
+        "professor": "Dr. Larry Thomas",
+        "subject": "Philosophy 101",
+        "stars": 4,
+        "review": "Interesting discussions, but readings are dense."
+      },
+      {
+        "professor": "Dr. Megan White",
+        "subject": "Creative Writing",
+        "stars": 5,
+        "review": "Encourages creativity and gives great feedback."
+      },
+      {
+        "professor": "Dr. Nathan Harris",
+        "subject": "Art History",
+        "stars": 3,
+        "review": "The material is fascinating, but lectures can be dry."
+      },
+      {
+        "professor": "Dr. Olivia Martinez",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "Very knowledgeable and encourages class participation."
+      },
+      {
+        "professor": "Dr. Paul Walker",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Engaging lectures and very passionate about the environment."
+      },
+      {
+        "professor": "Dr. Quinn Evans",
+        "subject": "Ethics",
+        "stars": 3,
+        "review": "Good course material, but lectures can be monotonous."
+      },
+      {
+        "professor": "Dr. Rachel Green",
+        "subject": "Marketing 101",
+        "stars": 4,
+        "review": "Practical examples and useful assignments."
+      },
+      {
+        "professor": "Dr. Steve Rogers",
+        "subject": "Microeconomics",
+        "stars": 2,
+        "review": "The material is tough, and the professor is not very approachable."
+      },
+      {
+        "professor": "Dr. Tina Williams",
+        "subject": "Anthropology",
+        "stars": 5,
+        "review": "Fascinating course with a lot of hands-on activities."
+      }
+    ]
+  }
+  
